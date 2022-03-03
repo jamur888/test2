@@ -5,6 +5,6 @@ public class Main {
     public static void main(String[] args) {
 
         System.out.println("salam aleykum");
-        System.out.println("привет");
+        System.out.println("приветуля");
     }
 }
